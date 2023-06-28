@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RalphDesmangles
-- 👀 I’m interested in Offensive Cybersecurity
-- 🌱 I’m currently learning HACKALLTHETHINGS
-- 💞️ I’m looking to collaborate on EVERYTHING
-- 📫 How to reach me TWITTER
+👋 Hi, I'm Ralph Desmangles, a Red Team Operator focused on Offensive Cybersecurity.
 
-<!---
-RalphDesmangles/RalphDesmangles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 Seasoned in conducting penetration tests, vulnerability assessments, and social engineering campaigns, I excel in identifying weaknesses and enhancing the resilience of critical infrastructure and corporate systems.
+
+🌐 Proficient in network security, web application security, wireless security, and cloud security, I utilize cutting-edge tools like Metasploit, Burp Suite, Empire, and Cobalt Strike.
+
+📫 Reach me on Twitter [@YourTwitterHandle] to discuss cybersecurity and potential collaborations. Let's make the digital world safer together!
